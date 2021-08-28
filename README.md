@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 -->
 
 ## Hello! I'm Alex!
-#### I am a student, athlete, and developer!
 ### About me
 - I currently work for [Mind Allies][mawebsite]
-- I am majoring in Computer Science with a focus on Cyber Security
 - I am A+ certified and currently pursuing the OSCP
+- I am available to take contract work at the moment!
+- I have 7 years of professional development experience!
+- I <3 PHP
 
 ### Accomplishments
 - Created the video conference platform [MindStream][mswebsite] in only a week during the covid-19 emergency
 - Created the entire Mind Allies web framework from scratch
 - Have saved Mind Allies thousands of dollars by creating as much software in house as possible
 - Am currently mentoring two developers at Mind Allies
+- Have created licening and anti-piracy software for FinTech
+- Built a PaaS learning platform
+- Created a custom customer service and support system
 
 ### Tools and Languages
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
