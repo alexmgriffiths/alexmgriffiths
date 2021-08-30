@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Accomplishments
 - Created the video conference platform [MindStream][mswebsite] in only a week during the covid-19 emergency
-- Created the entire Mind Allies web framework from scratch
+- Created the entire Mind Allies MVC web framework from scratch
 - Have saved Mind Allies thousands of dollars by creating as much software in house as possible
 - Am currently mentoring two developers at Mind Allies
 - Have created licening and anti-piracy software for FinTech
