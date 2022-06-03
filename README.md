@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 
 ## Hello! I'm Alex!
 
-### Accomplishments
-- Created the video conference platform [MindStream][mswebsite] in only a week during the covid-19 emergency
-- Created the entire Mind Allies MVC web framework from scratch
-- Have saved Mind Allies thousands per month by creating as much software in house as possible
-- Have created licensing and anti-piracy software for FinTech software
-- Built a PaaS learning platform
-- Created a custom customer service and support system
-
 ### Tools and Languages
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
