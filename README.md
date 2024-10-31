@@ -25,9 +25,9 @@ Director of Engineering focused on building secure, scalable solutions in FinTec
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="Cloudflare" width="26px" src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" />
+<img align="left" alt="Cloudflare" width="26px" src="https://raw.githubusercontent.com/github/explore/db5984103161a6f28a99b69bd609873d83a21d75/topics/cloudflare/cloudflare.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
